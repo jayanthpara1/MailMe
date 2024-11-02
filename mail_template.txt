@@ -1,0 +1,20 @@
+Subject: Internship Offer Letter
+
+Dear <name>,
+
+I hope this message finds you well. We are pleased to inform you that you have been selected for an internship position at [Company Name]. We were impressed by your skills and enthusiasm during the interview process and believe you will make a valuable addition to our team.
+
+Attached to this email is your official offer letter, which outlines the details of your internship, including your role, duration, and other pertinent information. Please review the document carefully.
+
+To confirm your acceptance of this offer, kindly reply to this email by [Acceptance Deadline Date] with your signed offer letter attached.
+
+If you have any questions or require further information, please do not hesitate to reach out.
+
+Congratulations once again, and we look forward to welcoming you to [Company Name]!
+
+Best regards,
+
+Jay
+CTO CODEPAR
+
+Attachment: Internship_Offer_Letter_[Intern's Name].pdf
